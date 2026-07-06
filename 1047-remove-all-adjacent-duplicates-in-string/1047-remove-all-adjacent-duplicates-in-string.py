@@ -6,9 +6,7 @@ class Solution(object):
         """
         A = []
         for x in s:
-            if A is None:
-                A.append(x)
-            elif A and A[-1] == x :
+            if A and A[-1] == x :
                 A.pop()
             else:
                 A.append(x)
