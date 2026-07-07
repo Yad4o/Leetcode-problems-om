@@ -8,7 +8,7 @@ class Solution(object):
         A = deque(students)
         B = list(sandwiches) 
         count = 0
-        while A and B:
+        while A and B and count < len(A):
             if A[0] == B[0]:
                 A.popleft()
                 B.pop(0)
@@ -16,7 +16,5 @@ class Solution(object):
             else:
                 count += 1
                 A.append(A.popleft())
-            if count == len(A):
-                return len(A)
-        return 0
             
+        return len(A)
