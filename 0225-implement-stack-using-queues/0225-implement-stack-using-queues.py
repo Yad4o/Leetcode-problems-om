@@ -1,23 +1,26 @@
+from collections import deque
 class MyStack(object):
 
     def __init__(self):
-        self.A = []
+        self.A = deque()
         
 
     def push(self, x):
         self.A.append(x)
+        for _ in range(len(self.A)-1):
+            self.A.append(self.A.popleft())
 
     def pop(self):
         if not self.A:
             return 
-        return self.A.pop()
+        return self.A.popleft()
         
 
     def top(self):
         """
         :rtype: int
         """
-        return self.A[-1]
+        return self.A[0]
         
 
     def empty(self):
