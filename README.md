@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0682-baseball-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
