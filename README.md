@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0867-transpose-matrix) |
@@ -71,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
