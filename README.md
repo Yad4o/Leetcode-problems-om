@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0682-baseball-game) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0844-backspace-string-compare) |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0933-number-of-recent-calls) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
