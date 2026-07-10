@@ -17,7 +17,8 @@ class MyCircularDeque(object):
         if self.isFull():
             return False
         elif self.isEmpty():
-            self.front = self.rear = 0
+            self.front = 0
+            self.rear = 0
         else:
             self.front = (self.front - 1) % self.size 
         self.A[self.front] = value
@@ -32,7 +33,8 @@ class MyCircularDeque(object):
         if self.isFull():
             return False
         elif self.isEmpty():
-            self.front = self.rear = 0
+            self.front = 0
+            self.rear = 0
         else:
             self.rear = (self.rear + 1) % self.size
         self.A[self.rear] = value
@@ -45,7 +47,8 @@ class MyCircularDeque(object):
         if self.isEmpty():
             return False
         elif self.front == self.rear:
-            self.front = self.rear = -1
+            self.front = -1
+            self.rear = -1
         else:
             self.front = (self.front + 1) % self.size
         return True
@@ -57,7 +60,8 @@ class MyCircularDeque(object):
         if self.isEmpty():
             return False
         elif self.front == self.rear:
-            self.front = self.rear = -1
+            self.front = -1
+            self.rear = -1
         else:
             self.rear = (self.rear - 1) % self.size
         return True
