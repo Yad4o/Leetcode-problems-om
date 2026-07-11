@@ -1,9 +1,6 @@
 class MyCircularDeque(object):
 
     def __init__(self, k):
-        """
-        :type k: int
-        """
         self.size = k
         self.front = -1
         self.rear = -1
