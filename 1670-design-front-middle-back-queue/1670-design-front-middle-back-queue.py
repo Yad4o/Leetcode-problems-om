@@ -60,13 +60,3 @@ class FrontMiddleBackQueue(object):
         if self.A:
             return self.A.pop()
         return -1
-
-
-# Your FrontMiddleBackQueue object will be instantiated and called as such:
-# obj = FrontMiddleBackQueue()
-# obj.pushFront(val)
-# obj.pushMiddle(val)
-# obj.pushBack(val)
-# param_4 = obj.popFront()
-# param_5 = obj.popMiddle()
-# param_6 = obj.popBack()
