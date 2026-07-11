@@ -1,4 +1,5 @@
 class FrontMiddleBackQueue(object):
+    
     def __init__(self):
         self.A = deque()
         self.B = deque()
