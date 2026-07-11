@@ -7,10 +7,6 @@ class MyCircularDeque(object):
         self.A = [None] * self.size
 
     def insertFront(self, value):
-        """
-        :type value: int
-        :rtype: bool
-        """
         if self.isFull():
             return False
         elif self.isEmpty():
@@ -23,10 +19,6 @@ class MyCircularDeque(object):
         
 
     def insertLast(self, value):
-        """
-        :type value: int
-        :rtype: bool
-        """
         if self.isFull():
             return False
         elif self.isEmpty():
@@ -38,9 +30,6 @@ class MyCircularDeque(object):
         return True 
 
     def deleteFront(self):
-        """
-        :rtype: bool
-        """
         if self.isEmpty():
             return False
         elif self.front == self.rear:
@@ -51,9 +40,6 @@ class MyCircularDeque(object):
         return True
 
     def deleteLast(self):
-        """
-        :rtype: bool
-        """
         if self.isEmpty():
             return False
         elif self.front == self.rear:
@@ -64,29 +50,17 @@ class MyCircularDeque(object):
         return True
 
     def getFront(self):
-        """
-        :rtype: int
-        """
         if self.isEmpty():
             return -1
         return self.A[self.front]
 
     def getRear(self):
-        """
-        :rtype: int
-        """
         if self.isEmpty():
             return -1
         return self.A[self.rear]
 
     def isEmpty(self):
-        """
-        :rtype: bool
-        """
         return self.front == self.rear == -1
 
     def isFull(self):
-        """
-        :rtype: bool
-        """
         return (self.rear + 1) % self.size == self.front
