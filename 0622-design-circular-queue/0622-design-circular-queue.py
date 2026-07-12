@@ -1,19 +1,12 @@
 class MyCircularQueue(object):
 
     def __init__(self, k):
-        """
-        :type k: int
-        """
         self.size = k 
         self.A = [None] * self.size 
         self.front = -1
         self.rear = -1
 
     def enQueue(self, value):
-        """
-        :type value: int
-        :rtype: bool
-        """
         if self.isFull():
             return False
         elif self.front == self.rear == -1:
@@ -24,9 +17,6 @@ class MyCircularQueue(object):
         return True
 
     def deQueue(self):
-        """
-        :rtype: bool
-        """
         if self.isEmpty():
             return False
         elif self.front == self.rear:
@@ -37,31 +27,19 @@ class MyCircularQueue(object):
         return True
 
     def Front(self):
-        """
-        :rtype: int
-        """
         if self.isEmpty():
             return -1
         return self.A[self.front]
 
     def Rear(self):
-        """
-        :rtype: int
-        """
         if self.isEmpty():
             return -1
         return self.A[self.rear]
 
     def isEmpty(self):
-        """
-        :rtype: bool
-        """
         return self.front == self.rear == -1
 
     def isFull(self):
-        """
-        :rtype: bool
-        """
         return (self.rear + 1) % len(self.A) == self.front
         
 
