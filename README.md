@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -109,10 +110,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
