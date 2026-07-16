@@ -1,10 +1,8 @@
-import numpy as np
 class Solution(object):
     def reverseString(self, s):
-        def helper(left, right):
-            if left >= right:
-                return
-            s[left] , s[right] = s[right] , s[left]
-            helper(left + 1 , right - 1)
-        helper(0 , len(s) - 1)
-        return s
+        i = 0
+        j = len(s) - 1
+        for i in range(0, len(s)-1):
+            if i <= j:
+                s[i], s[j] = s[j], s[i]
+                j -= 1
