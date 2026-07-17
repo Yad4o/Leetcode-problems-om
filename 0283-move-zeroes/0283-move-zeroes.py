@@ -9,7 +9,5 @@ class Solution(object):
             if nums[j] == 0 and nums[i] != 0:
                 nums[j], nums[i] = nums[i], nums[j]
                 j += 1
-            elif nums[j] != 0 and nums[i] == 0:
-                j += 1
-            elif nums[j] != 0 and nums[i] != 0:
+            elif nums[j] != 0 and nums[i] == 0 or nums[j] != 0 and nums[i] != 0:
                 j += 1
