@@ -12,7 +12,6 @@ class Solution(object):
                 A.pop()
             elif x == 'D':
                 A.append(A[-1] * 2)
-            else :
+            else:
                 A.append(int(x))
         return sum(A)
-        
