@@ -1,12 +1,17 @@
 class Solution(object):
     def backspaceCompare(self, s, t):
-        def S(a):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
+        def S(s):
             A = []
-            for x in a:
-                if x == '#':
+            for x in s:
+                if x != '#':
+                    A.append(x)
+                else:
                     if A:
                         A.pop()
-                else:
-                    A.append(x)
-            return "".join(A)
-        return S(t) == S(s)
+            return A
+        return S(s) == S(t)
