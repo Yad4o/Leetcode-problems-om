@@ -6,15 +6,14 @@ class Solution(object):
         :rtype: int
         """
         A = deque(students)
-        B = list(sandwiches) 
+        B = list(sandwiches)
         count = 0
         while B and count < len(A):
-            if A[0] == B[0]:
-                A.popleft()
-                B.pop(0)
-                count = 0
-            else:
-                count += 1
-                A.append(A.popleft())
-            
-        return len(A)
+                if A[0] == B[0]:
+                    A.popleft()
+                    B.pop(0)
+                    count = 0
+                else:
+                    A.append(A.popleft())
+                    count += 1
+        return count
