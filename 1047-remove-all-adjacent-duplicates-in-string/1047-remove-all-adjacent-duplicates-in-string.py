@@ -6,8 +6,8 @@ class Solution(object):
         """
         A = []
         for x in s:
-            if A and A[-1] == x:
+            if A and x == A[-1]:
                 A.pop()
             else:
                 A.append(x)
-        return "".join(A)
+        return "".join(A) 
