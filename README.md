@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0566-reshape-the-matrix) |
 | [0622-design-circular-queue](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0622-design-circular-queue) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0414-third-maximum-number) |
 ## Matrix
 |  |
 | ------- |
