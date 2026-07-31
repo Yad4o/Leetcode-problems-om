@@ -8,12 +8,10 @@ class Solution(object):
         for x in nums:
             if x in (first, second, third):
                 continue
-            
-            if x > first:
+            if first is None or x > first:
                 first, second, third = x, first, second
-            elif x > second:
+            elif second is None or x > second:
                 second, third = x, second
-            elif x > third:
+            elif third is None or x > third:
                 third = x
-            
-        return third if third is not None else first
+        return third if third is not None else first 
