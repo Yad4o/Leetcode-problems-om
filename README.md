@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0867-transpose-matrix) |
 | [1670-design-front-middle-back-queue](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
