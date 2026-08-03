@@ -4,8 +4,6 @@ class Solution(object):
         left = 0
         for i in range(len(nums)):
             right = total - left - nums[i]
-            
-
             if left == right:
                 return i
             left += nums[i]
