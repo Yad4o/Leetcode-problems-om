@@ -1,17 +1,20 @@
-class Solution:
+class Solution(object):
     def productExceptSelf(self, nums):
-
-        n = len(nums)
-
-        answer = [1] * n
-
-        for i in range(1, n):
-            answer[i] = answer[i - 1] * nums[i - 1]
-
-        right = 1
-
-        for i in range(n - 1, -1, -1):
-            answer[i] *= right
-            right *= nums[i]
-
-        return answer
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        pro=1
+        zero=0
+        for i in nums:
+            if i!=0:
+                pro*=i
+            else:
+                zero+=1
+        if zero==0:
+            res=[pro/i for i in nums]
+        elif zero>1:
+            res=[0 for i in nums]
+        else:
+            res=[0 if i!=0 else pro for i in nums]
+        return res
