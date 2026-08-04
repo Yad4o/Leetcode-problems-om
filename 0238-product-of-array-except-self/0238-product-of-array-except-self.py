@@ -1,20 +1,20 @@
-class Solution(object):
+class Solution:
     def productExceptSelf(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
-        pro=1
-        zero=0
-        for i in nums:
-            if i!=0:
-                pro*=i
-            else:
-                zero+=1
-        if zero==0:
-            res=[pro/i for i in nums]
-        elif zero>1:
-            res=[0 for i in nums]
-        else:
-            res=[0 if i!=0 else pro for i in nums]
-        return res
+
+        n = len(nums)
+
+        prefix = [1] * n
+        suffix = [1] * n
+
+        for i in range(1, n):
+            prefix[i] = prefix[i - 1] * nums[i - 1]
+
+        for i in range(n - 2, -1, -1):
+            suffix[i] = suffix[i + 1] * nums[i + 1]
+
+        ans = []
+
+        for i in range(n):
+            ans.append(prefix[i] * suffix[i])
+
+        return ans
