@@ -5,12 +5,13 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        i = len(num) - 1
+        index = len(num) - 1
         ans = []
-        while i >= 0 or k > 0:
-            if i >= 0:
-                k = k + num[i]
+        while index >= 0 or k > 0:
+            if index >= 0:
+                k = k + num[index]
+                index -= 1
             ans.append(k % 10)
             k //= 10
-            i -= 1
+            
         return ans[::-1]
