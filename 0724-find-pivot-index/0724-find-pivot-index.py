@@ -8,3 +8,4 @@ class Solution(object):
                 return i
             left += nums[i]
         return -1
+        
