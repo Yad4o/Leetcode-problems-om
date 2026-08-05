@@ -1,20 +1,24 @@
 class Solution:
     def productExceptSelf(self, nums):
-
-        n = len(nums)
-
-        prefix = [1] * n
-        suffix = [1] * n
-
-        for i in range(1, n):
-            prefix[i] = prefix[i - 1] * nums[i - 1]
-
-        for i in range(n - 2, -1, -1):
-            suffix[i] = suffix[i + 1] * nums[i + 1]
-
+        prod = 1
+        zero = 0 
+        for x in nums:
+            if x != 0:
+                prod *= x
+            else:
+                zero += 1
+                
         ans = []
-
-        for i in range(n):
-            ans.append(prefix[i] * suffix[i])
-
+        if zero == 0:
+            for x in nums:
+                ans.append(prod/x)
+        elif zero > 1:
+            for x in nums:
+                ans.append(x * 0)
+        else:
+            for x in nums:
+                if x == 0:
+                    ans.append(prod)
+                else:
+                    ans.append(0)
         return ans
