@@ -13,5 +13,4 @@ class Solution(object):
                 index -= 1
             ans.append(k % 10)
             k //= 10
-            
         return ans[::-1]
