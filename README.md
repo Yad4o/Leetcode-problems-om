@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
