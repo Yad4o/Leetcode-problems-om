@@ -4,17 +4,8 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        maxword = 0
-        current = 0
-        for x in s:
-            if x == ' ':
-                if current != 0:
-                    maxword += 1
-                current = 0
-            else:
-                current += 1
-        if current != 0:
-            maxword += 1
-        return maxword
-
-        
+        count = 0
+        for i in range(len(s)):
+           if s[i] != ' ' and (i == 0 or s[i - 1] == ' '):
+            count += 1
+        return count
