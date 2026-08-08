@@ -11,7 +11,7 @@ class Solution(object):
                 if current != 0:
                     maxword = current
                 current = 0
-            else :
+            else:
                 current += 1
         if current != 0:
             maxword = current
