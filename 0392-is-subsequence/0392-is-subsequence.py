@@ -9,8 +9,6 @@ class Solution(object):
         j = 0
         m = len(s)
         n = len(t)
-        if m < 0:
-            return True
         while i < m and j < n:
             if s[i] == t[j]:
                 i += 1
