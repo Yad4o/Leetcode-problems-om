@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1670-design-front-middle-back-queue](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1670-design-front-middle-back-queue) |
 ## Doubly-Linked List
