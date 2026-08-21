@@ -5,7 +5,6 @@
 #         self.next = next
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
-
         dummy = ListNode(0)
         curr = dummy
         rem = 0
