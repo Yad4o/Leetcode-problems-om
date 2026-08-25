@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0682-baseball-game) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
