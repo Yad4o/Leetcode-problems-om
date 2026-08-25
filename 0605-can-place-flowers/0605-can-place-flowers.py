@@ -1,0 +1,23 @@
+class Solution(object):
+    def canPlaceFlowers(self, flowerbed, n):
+        """
+        :type flowerbed: List[int]
+        :type n: int
+        :type rtype: bool
+        """
+        for i in range(0, len(flowerbed)):
+            if flowerbed[i] == 1:
+                continue
+
+            left_empty = (i == 0) or (flowerbed[i - 1] == 0)
+            
+            right_empty = (i == len(flowerbed) - 1) or (flowerbed[i + 1] == 0)
+            
+            if left_empty and right_empty:
+                n -= 1
+                flowerbed[i] = 1
+                
+            if n <= 0:
+                return True
+                
+        return n <= 0
