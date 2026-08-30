@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0042-trapping-rain-water) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
