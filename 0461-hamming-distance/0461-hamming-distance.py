@@ -1,8 +1,11 @@
-class Solution(object):
+class Solution:
     def hammingDistance(self, x, y):
-        """
-        :type x: int
-        :type y: int
-        :rtype: int
-        """
-        return bin(x ^ y).count('1')
+        xor = x ^ y
+        distance = 0
+        
+        while xor > 0:
+            xor &= (xor - 1)
+            distance += 1
+            
+        return distance
+
