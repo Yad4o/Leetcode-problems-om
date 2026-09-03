@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Array
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0989-add-to-array-form-of-integer) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1441-build-an-array-with-stack-operations) |
 | [1670-design-front-middle-back-queue](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0867-transpose-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
