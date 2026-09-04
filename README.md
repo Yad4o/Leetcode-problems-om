@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0434-number-of-segments-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
