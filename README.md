@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
