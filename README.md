@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0232-implement-queue-using-stacks) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0283-move-zeroes) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0268-missing-number) |
