@@ -4,20 +4,19 @@ class Solution(object):
         :type path: str
         :rtype: str
         """
-        A = []
-        curr = ''
-        for x in path + '/':
-            if x == '/':
-                if curr == '..':
-                    if A:
-                        A.pop()
-                elif curr == '.' or curr == '':
-                    pass
-                else:
-                    A.append(curr)
+        stack = []
+        
+        # Split by '/' automatically removes duplicate slashes (creates empty strings)
+        components = path.split('/')
+        
+        for portion in components:
+            if portion == '..' or portion == '':
+                # If '..', go up one level by popping from stack (if stack isn't empty)
+                if portion == '..' and stack:
+                    stack.pop()
+            elif portion != '.':
+                # Any normal directory name (including '...', '....', 'a.') goes into the stack
+                stack.append(portion)
                 
-                curr = ''
-            else:
-                curr += x 
-                
-        return "/" + "/".join(A)
+        # Join components with '/' and ensure it starts with a leading '/'
+        return "/" + "/".join(stack)
