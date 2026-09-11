@@ -7,10 +7,9 @@ class Solution(object):
         deck.sort()
         B = deque(deck)
         A = deque()
-        result = []
+        result = [0] * len(deck)
         for i in range(len(deck)):
             A.append(i)
-            result.append(0)
         while A:
             ind = A.popleft()
             result[ind] = B.popleft()
