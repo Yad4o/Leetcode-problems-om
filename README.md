@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0434-number-of-segments-in-a-string) |
+| [0649-dota2-senate](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -221,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
