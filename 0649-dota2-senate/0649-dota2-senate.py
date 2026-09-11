@@ -18,9 +18,4 @@ class Solution(object):
                 R.append(a + len(senate))
             else:
                 D.append(b + len(senate))
-        if R:
-            senate = "Radiant"
-            return senate
-        else:
-            senate = "Dire"
-            return senate
+        return "Radiant" if R else "Dire"
