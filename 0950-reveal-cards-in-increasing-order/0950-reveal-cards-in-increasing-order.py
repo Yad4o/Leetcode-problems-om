@@ -6,10 +6,8 @@ class Solution(object):
         """
         deck.sort()
         B = deque(deck)
-        A = deque()
+        A = deque(range(len(deck)))
         result = [0] * len(deck)
-        for i in range(len(deck)):
-            A.append(i)
         while A:
             ind = A.popleft()
             result[ind] = B.popleft()
