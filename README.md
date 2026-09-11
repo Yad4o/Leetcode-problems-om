@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0867-transpose-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0989-add-to-array-form-of-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0989-add-to-array-form-of-integer) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1441-build-an-array-with-stack-operations) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0867-transpose-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1670-design-front-middle-back-queue](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0414-third-maximum-number) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Matrix
 |  |
 | ------- |
