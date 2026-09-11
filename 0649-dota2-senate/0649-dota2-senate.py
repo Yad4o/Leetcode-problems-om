@@ -4,16 +4,16 @@ class Solution(object):
         :type senate: str
         :rtype: str
         """
-        R = []
-        D = []
+        R = deque()
+        D = deque()
         for i in range(len(senate)):
             if senate[i] == 'R':
                 R.append(i)
             else:
                 D.append(i)
         while R and D:
-            a = R.pop(0)
-            b = D.pop(0)
+            a = R.popleft()
+            b = D.popleft()
             if a < b:
                 R.append(a + len(senate))
             else:
