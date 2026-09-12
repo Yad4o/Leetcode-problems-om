@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0414-third-maximum-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0649-dota2-senate) |
@@ -228,4 +230,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0649-dota2-senate) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
