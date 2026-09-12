@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0071-simplify-path) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
