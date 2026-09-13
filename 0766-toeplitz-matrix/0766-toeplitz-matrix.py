@@ -4,10 +4,12 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: bool
         """
-        for r in range(1, len(matrix)):
-            for c in range(1, len(matrix[0])):
-                
-                if matrix[r][c] != matrix[r - 1][c - 1]:
-                    return False
+        rows = len(matrix)
+        cols = len(matrix[0])
+        for r in range(1, rows):
+            for c in range(1, cols):
+                if matrix[r][c] != matrix[r-1][c-1]:
+                    return False 
+        return True            
 
-        return True
+        
