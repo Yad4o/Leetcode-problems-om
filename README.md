@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0735-asteroid-collision) |
+| [0766-toeplitz-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0989-add-to-array-form-of-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0989-add-to-array-form-of-integer) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1572-matrix-diagonal-sum) |
 ## Linked List
