@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1572-matrix-diagonal-sum) |
 | [1670-design-front-middle-back-queue](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3524-find-x-value-of-array-i](https://github.com/Yad4o/Leetcode-problems-om/tree/master/3524-find-x-value-of-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/Yad4o/Leetcode-problems-om/tree/master/3524-find-x-value-of-array-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0509-fibonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/Yad4o/Leetcode-problems-om/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
