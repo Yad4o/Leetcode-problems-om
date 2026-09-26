@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0058-length-of-last-word) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0027-remove-element) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0338-counting-bits) |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0239-sliding-window-maximum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yad4o/Leetcode-problems-om/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
